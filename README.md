@@ -1,6 +1,6 @@
 # BigClust - Stochastic Nonsmooth Optimization based Incremental Clustering Software (version 0.1) 
 
-BigClust is a nonsmooth optimization (NSO) based clustering algorithm for solving the minimum sum-of-squares clustering (MSSC) problem in very large-scale and big data sets. BigClust consist of two different algorithms: an incremental algorithm is used to solve clustering problems globally and at each iteration of this algorithm the stochastic limited memory bundle (SLMB) algorithm is used to solve both the clustering and the auxiliary clustering problems with different starting points. In addition to the k-partition problem, BigClust solves also all intermediate l-partition problems where l=1,…,k-1 due to the incremental approach used.
+BigClust is a nonsmooth optimization based clustering algorithm for solving the minimum sum-of-squares clustering (MSSC) problem in very large-scale and big data sets. BigClust consist of two different algorithms: an incremental algorithm is used to solve clustering problems globally and at each iteration of this algorithm the stochastic limited memory bundle (SLMB) algorithm is used to solve both the clustering and the auxiliary clustering problems with different starting points. In addition to the k-partition problem, BigClust solves all intermediate l-partition problems where l=1,…,k-1 due to the incremental approach used.
 
 ## Files included
 * bigclust.f95          
