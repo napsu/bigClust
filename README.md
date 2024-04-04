@@ -6,7 +6,7 @@ BigClust is a nonsmooth optimization (NSO) based clustering algorithm for solvin
 * bigclust.f95          
   - Mainprogram for clustering software
 * initbigclust.f95  
-  - initialization of clustering parameters and SLMB. Includes modules:
+  - Initialization of clustering parameters and SLMB. Includes modules:
     + initclust - Initialization of parameters for clustering.
     + initslmb - Initialization of SLMB.
 * clusteringmod.f95     
@@ -16,7 +16,7 @@ BigClust is a nonsmooth optimization (NSO) based clustering algorithm for solvin
 * objfun.f95            
   - Computation of the cluster function and subgradients values.
 * subpro.f95            
-  - subprograms for SLMB.
+  - Subprograms for SLMB.
 * parameters.f95        
   - Parameters. Inludes modules:
     + r_precision - Precision for reals,
