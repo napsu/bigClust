@@ -43,7 +43,7 @@ In addition, separate txt-file with the final cluster centers with nclust cluste
 ## References:
 
 * BigClust and SLMB:
-- N. Karmitsa, V.-P. Eronen, M.M. Mäkelä, A. Airola, T. Pahikkala, "Stochastic limited memory bundle method for clustering in big data", 2024
+  - N. Karmitsa, V.-P. Eronen, M.M. Mäkelä, A. Airola, T. Pahikkala, "Stochastic limited memory bundle method for clustering in big data", 2024
 * Clustering:
   - A. Bagirov, N. Karmitsa, S Taheri, "[Partitional Clustering via Nonsmooth Optimization](https://link.springer.com/book/10.1007/978-3-030-37826-4)", Springer, 2020.
 
