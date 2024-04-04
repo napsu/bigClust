@@ -1,0 +1,333 @@
+ BigClust: Cluster centers
+
+ This file contains the final cluster centers with k =          25  clusters and
+ the solutions to all intermediate l-clustering problems with l = 1,...,k-1. 
+
+ Writing down the cluster centers is canceled. Select ipc = 1 in initbigclust to enable them.
+
+
+ ____________________________________________________
+
+     Number of clusters:            1
+ ____________________________________________________
+
+
+The value of the cluster function:           3121242062.762239
+
+The total number of norms:                              265057
+
+CPU time:                                                0.007
+
+
+ ____________________________________________________
+
+     Number of clusters:            2
+ ____________________________________________________
+
+
+The value of the cluster function:           1325306962.716927
+
+The total number of norms:                            11125591
+
+CPU time:                                                0.113
+
+
+ ____________________________________________________
+
+     Number of clusters:            3
+ ____________________________________________________
+
+
+The value of the cluster function:            895398192.383639
+
+The total number of norms:                            17382476
+
+CPU time:                                                0.189
+
+
+ ____________________________________________________
+
+     Number of clusters:            4
+ ____________________________________________________
+
+
+The value of the cluster function:            641354819.425540
+
+The total number of norms:                            21135612
+
+CPU time:                                                0.241
+
+
+ ____________________________________________________
+
+     Number of clusters:            5
+ ____________________________________________________
+
+
+The value of the cluster function:            504876580.848980
+
+The total number of norms:                            26914920
+
+CPU time:                                                0.319
+
+
+ ____________________________________________________
+
+     Number of clusters:            6
+ ____________________________________________________
+
+
+The value of the cluster function:            425648970.172618
+
+The total number of norms:                            32319179
+
+CPU time:                                                0.385
+
+
+ ____________________________________________________
+
+     Number of clusters:            7
+ ____________________________________________________
+
+
+The value of the cluster function:            364163887.290056
+
+The total number of norms:                            35875574
+
+CPU time:                                                0.432
+
+
+ ____________________________________________________
+
+     Number of clusters:            8
+ ____________________________________________________
+
+
+The value of the cluster function:            323871650.062911
+
+The total number of norms:                            42029007
+
+CPU time:                                                0.508
+
+
+ ____________________________________________________
+
+     Number of clusters:            9
+ ____________________________________________________
+
+
+The value of the cluster function:            284377156.127332
+
+The total number of norms:                            55851980
+
+CPU time:                                                0.671
+
+
+ ____________________________________________________
+
+     Number of clusters:           10
+ ____________________________________________________
+
+
+The value of the cluster function:            265752401.962415
+
+The total number of norms:                            75972671
+
+CPU time:                                                0.909
+
+
+ ____________________________________________________
+
+     Number of clusters:           11
+ ____________________________________________________
+
+
+The value of the cluster function:            236491712.924406
+
+The total number of norms:                            82744823
+
+CPU time:                                                0.994
+
+
+ ____________________________________________________
+
+     Number of clusters:           12
+ ____________________________________________________
+
+
+The value of the cluster function:            223123272.495240
+
+The total number of norms:                            88407163
+
+CPU time:                                                1.067
+
+
+ ____________________________________________________
+
+     Number of clusters:           13
+ ____________________________________________________
+
+
+The value of the cluster function:            203249363.728658
+
+The total number of norms:                            93990158
+
+CPU time:                                                1.140
+
+
+ ____________________________________________________
+
+     Number of clusters:           14
+ ____________________________________________________
+
+
+The value of the cluster function:            182811674.930793
+
+The total number of norms:                           103293562
+
+CPU time:                                                1.260
+
+
+ ____________________________________________________
+
+     Number of clusters:           15
+ ____________________________________________________
+
+
+The value of the cluster function:            175295951.439800
+
+The total number of norms:                           108470246
+
+CPU time:                                                1.327
+
+
+ ____________________________________________________
+
+     Number of clusters:           16
+ ____________________________________________________
+
+
+The value of the cluster function:            160835789.823290
+
+The total number of norms:                           128782285
+
+CPU time:                                                1.588
+
+
+ ____________________________________________________
+
+     Number of clusters:           17
+ ____________________________________________________
+
+
+The value of the cluster function:            154825436.178694
+
+The total number of norms:                           133472630
+
+CPU time:                                                1.648
+
+
+ ____________________________________________________
+
+     Number of clusters:           18
+ ____________________________________________________
+
+
+The value of the cluster function:            144916183.039004
+
+The total number of norms:                           151171265
+
+CPU time:                                                1.878
+
+
+ ____________________________________________________
+
+     Number of clusters:           19
+ ____________________________________________________
+
+
+The value of the cluster function:            135783246.013080
+
+The total number of norms:                           160514726
+
+CPU time:                                                2.003
+
+
+ ____________________________________________________
+
+     Number of clusters:           20
+ ____________________________________________________
+
+
+The value of the cluster function:            131213750.279790
+
+The total number of norms:                           183724280
+
+CPU time:                                                2.314
+
+
+ ____________________________________________________
+
+     Number of clusters:           21
+ ____________________________________________________
+
+
+The value of the cluster function:            126999650.463692
+
+The total number of norms:                           189647077
+
+CPU time:                                                2.393
+
+
+ ____________________________________________________
+
+     Number of clusters:           22
+ ____________________________________________________
+
+
+The value of the cluster function:            120772759.694300
+
+The total number of norms:                           194349908
+
+CPU time:                                                2.457
+
+
+ ____________________________________________________
+
+     Number of clusters:           23
+ ____________________________________________________
+
+
+The value of the cluster function:            115085794.434544
+
+The total number of norms:                           216773507
+
+CPU time:                                                2.761
+
+
+ ____________________________________________________
+
+     Number of clusters:           24
+ ____________________________________________________
+
+
+The value of the cluster function:            112492608.046656
+
+The total number of norms:                           220949556
+
+CPU time:                                                2.817
+
+
+ ____________________________________________________
+
+     Number of clusters:           25
+ ____________________________________________________
+
+
+The value of the cluster function:            106390493.314872
+
+The total number of norms:                           228645955
+
+CPU time:                                                2.922
+
+
