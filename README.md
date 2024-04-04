@@ -34,7 +34,6 @@ To use the code:
 1) Modify initbigclust.f95 as needed. The least, select the dataset, give the number of data points, features, and the maximum number of clusters "nclust".
 2) Run Makefile (by typing "make"). Makefile uses gfortran as default.
 3) Finally, just type "./bigclust".
-     To use the software modify initbigclust.f95 as needed.
 
 
 The algorithm returns a txt-file with clustering function values, Dunn and Davies-Bouldin validity indices and elapsed CPU-times up to nclust clusters.
