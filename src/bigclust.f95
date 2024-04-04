@@ -506,12 +506,10 @@ PROGRAM bigclust
                 call clustfull2(x,f)
             end if
             if (fold < f) then
-                print*,'fold on PIENI',f,fold
                 do i=1,nft
                     xold((nc-1)*nft+i)=a_used(i,1) ! We may have better options, but this is quick.
                 end do
                 call clustfull2(xold,f)
-                print*,'fold on PIENI',f,fold
                 fold=f
                 x=xold
             else
