@@ -42,7 +42,7 @@ In addition, separate txt-file with the final cluster centers with _nclust_ clus
 ## References:
 
 * BigClust and SLMBA:
-  - N. Karmitsa, V.-P. Eronen, M.M. Mäkelä, T. Pahikkala, A. Airola, "Stochastic limited memory bundle algorithm for clustering in big data", 2024
+  - N. Karmitsa, V.-P. Eronen, M.M. Mäkelä, T. Pahikkala, A. Airola, "[Stochastic limited memory bundle algorithm for clustering in big data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900011)" (author version, available at SSRN), Pattern Recognition, in-press 2025.
 * Clustering:
   - A. Bagirov, N. Karmitsa, S Taheri, "[Partitional Clustering via Nonsmooth Optimization](https://link.springer.com/book/10.1007/978-3-030-37826-4)", Springer, 2020.
 
