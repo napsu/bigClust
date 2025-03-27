@@ -1,6 +1,6 @@
 # BigClust - Stochastic Nonsmooth Optimization based Incremental Clustering Software (version 0.1) 
 
-BigClust is a nonsmooth optimization based clustering algorithm for solving the minimum sum-of-squares clustering (MSSC) problem in very large-scale and big data sets. BigClust consist of two different algorithms: an incremental algorithm is used to solve clustering problems globally and at each iteration of this algorithm the stochastic limited memory bundle algorithm (SLMBA) is used to solve both the clustering and the auxiliary clustering problems with different starting points. In addition to the _k_-partition problem, BigClust solves all intermediate _l_-partition problems where _l_=1,…,_k_-1 due to the incremental approach used.
+__BigClust__ is a nonsmooth optimization based clustering algorithm for solving the minimum sum-of-squares clustering (MSSC) problem in very large-scale and big data sets. __BigClust__ consist of two different algorithms: an incremental algorithm is used to solve clustering problems globally and at each iteration of this algorithm the stochastic limited memory bundle algorithm (SLMBA) is used to solve both the clustering and the auxiliary clustering problems with different starting points. In addition to the _k_-partition problem, __BigClust__ solves all intermediate _l_-partition problems where _l_=1,…,_k_-1 due to the incremental approach used.
 
 ## Files included
 * bigclust.f95          
@@ -42,15 +42,15 @@ In addition, separate txt-file with the final cluster centers with _nclust_ clus
 ## References:
 
 * BigClust and SLMBA:
-  - N. Karmitsa, V.-P. Eronen, M.M. Mäkelä, T. Pahikkala, A. Airola, "[Stochastic limited memory bundle algorithm for clustering in big data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900011)" (author version, available at SSRN), Pattern Recognition, in-press 2025.
+  - N. Karmitsa, V.-P. Eronen, M.M. Mäkelä, T. Pahikkala, A. Airola, "[Stochastic limited memory bundle algorithm for clustering in big data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900011)" (author version, available at SSRN), _Pattern Recognition_, in-press 2025.
 * Clustering:
-  - A. Bagirov, N. Karmitsa, S Taheri, "[Partitional Clustering via Nonsmooth Optimization](https://link.springer.com/book/10.1007/978-3-030-37826-4)", Springer, 2020.
+  - A. Bagirov, N. Karmitsa, S Taheri, "[Partitional Clustering via Nonsmooth Optimization](https://link.springer.com/book/10.1007/978-3-030-37826-4)", _Springer_, 2020.
 
 * LMBM:
-  - N. Haarala, K. Miettinen, M.M. Mäkelä, "[Globally Convergent Limited Memory Bundle Method for Large-Scale Nonsmooth Optimization](https://link.springer.com/article/10.1007/s10107-006-0728-2)", Mathematical Programming, Vol. 109, No. 1, pp. 181-205, 2007.
-  - M. Haarala, K. Miettinen, M.M. Mäkelä, "[New Limited Memory Bundle Method for Large-Scale Nonsmooth Optimization](https://www.tandfonline.com/doi/abs/10.1080/10556780410001689225)", Optimization Methods and Software, Vol. 19, No. 6, pp. 673-692, 2004.
+  - N. Haarala, K. Miettinen, M.M. Mäkelä, "[Globally Convergent Limited Memory Bundle Method for Large-Scale Nonsmooth Optimization](https://link.springer.com/article/10.1007/s10107-006-0728-2)", _Mathematical Programming_, Vol. 109, No. 1, pp. 181-205, 2007.
+  - M. Haarala, K. Miettinen, M.M. Mäkelä, "[New Limited Memory Bundle Method for Large-Scale Nonsmooth Optimization](https://www.tandfonline.com/doi/abs/10.1080/10556780410001689225)", _Optimization Methods and Software_, Vol. 19, No. 6, pp. 673-692, 2004.
 * Nonsmooth optimization:
-  - A. Bagirov, N. Karmitsa, M.M. Mäkelä, "[Introduction to nonsmooth optimization: theory, practice and software](https://link.springer.com/book/10.1007/978-3-319-08114-4)", Springer, 2014.
+  - A. Bagirov, N. Karmitsa, M.M. Mäkelä, "[Introduction to nonsmooth optimization: theory, practice and software](https://link.springer.com/book/10.1007/978-3-319-08114-4)", _Springer_, 2014.
 
 ## Acknowledgements
 The work was financially supported by the Research Council of Finland projects (Project No. #345804 and #345805) led by Antti Airola and Tapio Pahikkala.
