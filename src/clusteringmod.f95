@@ -157,7 +157,8 @@ CONTAINS
             r5=1.0E-03_prec*(r1-r2)
             IF(ABS(r1-r2) < 1.0E-03_prec) r5=1.0E-06_prec
             r3=r1+r5
-            DO
+            DO k1=1,10000 ! Limit to prevent endless loop, this should never happen
+                IF (k1 == 10000) PRINT*,'Warning: loop limit reached in starting point procedure.'
                 r3=r3-r5
                 r4=r3-r5
                 IF(r3 < r2) CYCLE loop1 ! Only loop points whose distance is above the average
