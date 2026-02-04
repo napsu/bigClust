@@ -494,7 +494,7 @@ CONTAINS
             DO j1=1,nstart
                 j2 = l4(j1)
                 d4 = dcand(j,j2)
-                IF(d4 > toler2) CYCLE loop_ncand
+                IF(d4 < toler2) CYCLE loop_ncand ! changed 4.2.2026
             END DO
             nstart=nstart+1
             l4(nstart)=j
